@@ -1,0 +1,48 @@
+.logoLogin{
+  width: 150px;
+  height: 150px;
+  align-self: center;
+  margin-top: 20px;
+  margin-left: 35%;
+}
+
+
+
+.confirm{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
+  .entrar{
+    width: 50%;
+    height: 35px;
+    margin: 20px 0 0 0;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color:#6B8067;
+    color: white;
+    outline: none;
+    border: none;
+}
+
+}
+
+.form{
+  input{
+    height: 2.758rem;
+    font-size: .89rem;
+    border-radius: .75rem;
+  }
+  p{
+    font-size: .75rem;
+  }
+  .alert{
+    color: rgb(214, 11, 11);
+    animation: treme 0.19s;
+    animation-iteration-count: 3;
+  }
+
+
+}
+
