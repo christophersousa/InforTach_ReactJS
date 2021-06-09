@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.180c3a77.chunk.css",
+    "main.js": "/static/js/main.b4d1403e.chunk.js",
+    "main.js.map": "/static/js/main.b4d1403e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ea11aab.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ea11aab.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d9fa58b5.chunk.js": "/static/js/2.d9fa58b5.chunk.js",
+    "static/js/2.d9fa58b5.chunk.js.map": "/static/js/2.d9fa58b5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.180c3a77.chunk.css.map": "/static/css/main.180c3a77.chunk.css.map",
+    "static/js/2.d9fa58b5.chunk.js.LICENSE.txt": "/static/js/2.d9fa58b5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Quicksand_Book.c86e224d.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ea11aab.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d9fa58b5.chunk.js",
+    "static/css/main.180c3a77.chunk.css",
+    "static/js/main.b4d1403e.chunk.js"
+  ]
+}
